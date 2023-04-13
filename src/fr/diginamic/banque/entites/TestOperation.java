@@ -1,9 +1,5 @@
 package fr.diginamic.banque.entites;
 
-import fr.diginamic.banque.entites.Operation;
-import fr.diginamic.banque.entites.Credit;
-import fr.diginamic.banque.entites.Debit;
-
 public class TestOperation {
 
 	public static void main(String[] args) {
