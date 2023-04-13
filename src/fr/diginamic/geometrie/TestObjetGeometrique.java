@@ -1,4 +1,4 @@
-
+package fr.diginamic.geometrie;
 public class TestObjetGeometrique {
 
 	public static void main(String[] args) {

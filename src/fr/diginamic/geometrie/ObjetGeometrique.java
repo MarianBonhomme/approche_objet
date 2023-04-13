@@ -1,3 +1,4 @@
+package fr.diginamic.geometrie;
 
 public interface ObjetGeometrique {
 
