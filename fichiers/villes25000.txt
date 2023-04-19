@@ -1,0 +1,366 @@
+Ville: Nom de la commune, Code:Code région, Region:Nom de la région, Population:Population totale
+Ville: Bourg-en-Bresse, Code:84, Region:Auvergne-Rhône-Alpes, Population:43 454
+Ville: Laon, Code:32, Region:Hauts-de-France, Population:26 031
+Ville: Saint-Quentin, Code:32, Region:Hauts-de-France, Population:55 940
+Ville: Soissons, Code:32, Region:Hauts-de-France, Population:29 417
+Ville: Montluçon, Code:84, Region:Auvergne-Rhône-Alpes, Population:37 417
+Ville: Gap, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:42 567
+Ville: Antibes, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:74 982
+Ville: Cagnes-sur-Mer, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:50 385
+Ville: Cannes, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:75 046
+Ville: Le Cannet, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:42 056
+Ville: Grasse, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:51 705
+Ville: Menton, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:28 942
+Ville: Nice, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:345 998
+Ville: Saint-Laurent-du-Var, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:28 831
+Ville: Vallauris, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:26 787
+Ville: Charleville-Mézières, Code:44, Region:Grand Est, Population:48 420
+Ville: Troyes, Code:44, Region:Grand Est, Population:61 988
+Ville: Carcassonne, Code:76, Region:Occitanie, Population:47 418
+Ville: Narbonne, Code:76, Region:Occitanie, Population:55 001
+Ville: Rodez, Code:76, Region:Occitanie, Population:25 747
+Ville: Aix-en-Provence, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:146 385
+Ville: Arles, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:53 807
+Ville: Aubagne, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:45 711
+Ville: La Ciotat, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:35 758
+Ville: Istres, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:44 248
+Ville: Marignane, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:33 949
+Ville: Marseille, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:870 018
+Ville: Martigues, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:49 310
+Ville: Miramas, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:26 217
+Ville: Salon-de-Provence, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:46 225
+Ville: Vitrolles, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:34 301
+Ville: Caen, Code:28, Region:Normandie, Population:108 461
+Ville: Aurillac, Code:84, Region:Auvergne-Rhône-Alpes, Population:27 659
+Ville: Angoulême, Code:75, Region:Nouvelle-Aquitaine, Population:44 629
+Ville: La Rochelle, Code:75, Region:Nouvelle-Aquitaine, Population:78 623
+Ville: Saintes, Code:75, Region:Nouvelle-Aquitaine, Population:26 890
+Ville: Bourges, Code:24, Region:Centre-Val de Loire, Population:67 841
+Ville: Vierzon, Code:24, Region:Centre-Val de Loire, Population:27 036
+Ville: Brive-la-Gaillarde, Code:75, Region:Nouvelle-Aquitaine, Population:48 333
+Ville: Ajaccio, Code:94, Region:Corse, Population:70 063
+Ville: Bastia, Code:94, Region:Corse, Population:45 596
+Ville: Dijon, Code:27, Region:Bourgogne-Franche-Comté, Population:159 031
+Ville: Saint-Brieuc, Code:53, Region:Bretagne, Population:47 058
+Ville: Bergerac, Code:75, Region:Nouvelle-Aquitaine, Population:28 166
+Ville: Périgueux, Code:75, Region:Nouvelle-Aquitaine, Population:31 505
+Ville: Besançon, Code:27, Region:Bourgogne-Franche-Comté, Population:120 107
+Ville: Montbéliard, Code:27, Region:Bourgogne-Franche-Comté, Population:26 015
+Ville: Montélimar, Code:84, Region:Auvergne-Rhône-Alpes, Population:39 924
+Ville: Romans-sur-Isère, Code:84, Region:Auvergne-Rhône-Alpes, Population:34 095
+Ville: Valence, Code:84, Region:Auvergne-Rhône-Alpes, Population:64 322
+Ville: Évreux, Code:28, Region:Normandie, Population:51 560
+Ville: Chartres, Code:24, Region:Centre-Val de Loire, Population:40 195
+Ville: Dreux, Code:24, Region:Centre-Val de Loire, Population:31 575
+Ville: Brest, Code:53, Region:Bretagne, Population:142 629
+Ville: Quimper, Code:53, Region:Bretagne, Population:66 743
+Ville: Alès, Code:76, Region:Occitanie, Population:41 129
+Ville: Nîmes, Code:76, Region:Occitanie, Population:154 196
+Ville: Colomiers, Code:76, Region:Occitanie, Population:39 200
+Ville: Muret, Code:76, Region:Occitanie, Population:25 961
+Ville: Toulouse, Code:76, Region:Occitanie, Population:482 738
+Ville: Tournefeuille, Code:76, Region:Occitanie, Population:27 008
+Ville: Bègles, Code:75, Region:Nouvelle-Aquitaine, Population:28 092
+Ville: Bordeaux, Code:75, Region:Nouvelle-Aquitaine, Population:256 045
+Ville: Gradignan, Code:75, Region:Nouvelle-Aquitaine, Population:26 029
+Ville: Libourne, Code:75, Region:Nouvelle-Aquitaine, Population:25 491
+Ville: Mérignac, Code:75, Region:Nouvelle-Aquitaine, Population:71 203
+Ville: Pessac, Code:75, Region:Nouvelle-Aquitaine, Population:62 737
+Ville: Saint-Médard-en-Jalles, Code:75, Region:Nouvelle-Aquitaine, Population:31 576
+Ville: Talence, Code:75, Region:Nouvelle-Aquitaine, Population:44 040
+Ville: La Teste-de-Buch, Code:75, Region:Nouvelle-Aquitaine, Population:26 525
+Ville: Villenave-d'Ornon, Code:75, Region:Nouvelle-Aquitaine, Population:33 091
+Ville: Agde, Code:76, Region:Occitanie, Population:28 120
+Ville: Béziers, Code:76, Region:Occitanie, Population:77 894
+Ville: Lunel, Code:76, Region:Occitanie, Population:26 263
+Ville: Montpellier, Code:76, Region:Occitanie, Population:286 098
+Ville: Sète, Code:76, Region:Occitanie, Population:44 271
+Ville: Rennes, Code:53, Region:Bretagne, Population:222 104
+Ville: Saint-Malo, Code:53, Region:Bretagne, Population:47 528
+Ville: Châteauroux, Code:24, Region:Centre-Val de Loire, Population:45 780
+Ville: Joué-lès-Tours, Code:24, Region:Centre-Val de Loire, Population:37 974
+Ville: Tours, Code:24, Region:Centre-Val de Loire, Population:139 963
+Ville: Bourgoin-Jallieu, Code:84, Region:Auvergne-Rhône-Alpes, Population:28 399
+Ville: Échirolles, Code:84, Region:Auvergne-Rhône-Alpes, Population:36 143
+Ville: Grenoble, Code:84, Region:Auvergne-Rhône-Alpes, Population:160 836
+Ville: Saint-Martin-d'Hères, Code:84, Region:Auvergne-Rhône-Alpes, Population:38 974
+Ville: Vienne, Code:84, Region:Auvergne-Rhône-Alpes, Population:30 178
+Ville: Mont-de-Marsan, Code:75, Region:Nouvelle-Aquitaine, Population:31 517
+Ville: Blois, Code:24, Region:Centre-Val de Loire, Population:47 524
+Ville: Roanne, Code:84, Region:Auvergne-Rhône-Alpes, Population:35 913
+Ville: Saint-Chamond, Code:84, Region:Auvergne-Rhône-Alpes, Population:35 969
+Ville: Saint-Étienne, Code:84, Region:Auvergne-Rhône-Alpes, Population:174 298
+Ville: Nantes, Code:52, Region:Pays de la Loire, Population:314 611
+Ville: Orvault, Code:52, Region:Pays de la Loire, Population:26 618
+Ville: Rezé, Code:52, Region:Pays de la Loire, Population:41 808
+Ville: Saint-Herblain, Code:52, Region:Pays de la Loire, Population:47 502
+Ville: Saint-Nazaire, Code:52, Region:Pays de la Loire, Population:72 295
+Ville: Saint-Sébastien-sur-Loire, Code:52, Region:Pays de la Loire, Population:27 591
+Ville: Orléans, Code:24, Region:Centre-Val de Loire, Population:118 102
+Ville: Agen, Code:75, Region:Nouvelle-Aquitaine, Population:34 565
+Ville: Angers, Code:52, Region:Pays de la Loire, Population:155 543
+Ville: Cholet, Code:52, Region:Pays de la Loire, Population:55 772
+Ville: Saumur, Code:52, Region:Pays de la Loire, Population:28 554
+Ville: Sèvremoine, Code:52, Region:Pays de la Loire, Population:26 239
+Ville: Cherbourg-en-Cotentin, Code:28, Region:Normandie, Population:82 578
+Ville: Châlons-en-Champagne, Code:44, Region:Grand Est, Population:46 288
+Ville: Reims, Code:44, Region:Grand Est, Population:187 074
+Ville: Saint-Dizier, Code:44, Region:Grand Est, Population:25 666
+Ville: Laval, Code:52, Region:Pays de la Loire, Population:52 359
+Ville: Nancy, Code:44, Region:Grand Est, Population:106 953
+Ville: Vandœuvre-lès-Nancy, Code:44, Region:Grand Est, Population:30 502
+Ville: Lorient, Code:53, Region:Bretagne, Population:58 789
+Ville: Vannes, Code:53, Region:Bretagne, Population:55 573
+Ville: Metz, Code:44, Region:Grand Est, Population:119 856
+Ville: Thionville, Code:44, Region:Grand Est, Population:41 396
+Ville: Nevers, Code:27, Region:Bourgogne-Franche-Comté, Population:34 799
+Ville: Armentières, Code:32, Region:Hauts-de-France, Population:25 373
+Ville: Cambrai, Code:32, Region:Hauts-de-France, Population:33 349
+Ville: Douai, Code:32, Region:Hauts-de-France, Population:40 860
+Ville: Dunkerque, Code:32, Region:Hauts-de-France, Population:89 485
+Ville: Lambersart, Code:32, Region:Hauts-de-France, Population:28 027
+Ville: Lille, Code:32, Region:Hauts-de-France, Population:236 782
+Ville: Marcq-en-Barœul, Code:32, Region:Hauts-de-France, Population:39 697
+Ville: Maubeuge, Code:32, Region:Hauts-de-France, Population:29 995
+Ville: Roubaix, Code:32, Region:Hauts-de-France, Population:96 953
+Ville: Tourcoing, Code:32, Region:Hauts-de-France, Population:98 170
+Ville: Valenciennes, Code:32, Region:Hauts-de-France, Population:44 509
+Ville: Villeneuve-d'Ascq, Code:32, Region:Hauts-de-France, Population:63 085
+Ville: Wattrelos, Code:32, Region:Hauts-de-France, Population:41 570
+Ville: Beauvais, Code:32, Region:Hauts-de-France, Population:57 548
+Ville: Compiègne, Code:32, Region:Hauts-de-France, Population:41 660
+Ville: Creil, Code:32, Region:Hauts-de-France, Population:36 091
+Ville: Alençon, Code:28, Region:Normandie, Population:27 221
+Ville: Arras, Code:32, Region:Hauts-de-France, Population:41 973
+Ville: Béthune, Code:32, Region:Hauts-de-France, Population:25 753
+Ville: Boulogne-sur-Mer, Code:32, Region:Hauts-de-France, Population:42 293
+Ville: Calais, Code:32, Region:Hauts-de-France, Population:75 719
+Ville: Hénin-Beaumont, Code:32, Region:Hauts-de-France, Population:26 260
+Ville: Lens, Code:32, Region:Hauts-de-France, Population:31 080
+Ville: Liévin, Code:32, Region:Hauts-de-France, Population:31 337
+Ville: Clermont-Ferrand, Code:84, Region:Auvergne-Rhône-Alpes, Population:146 112
+Ville: Anglet, Code:75, Region:Nouvelle-Aquitaine, Population:39 995
+Ville: Bayonne, Code:75, Region:Nouvelle-Aquitaine, Population:51 943
+Ville: Biarritz, Code:75, Region:Nouvelle-Aquitaine, Population:25 518
+Ville: Pau, Code:75, Region:Nouvelle-Aquitaine, Population:79 022
+Ville: Tarbes, Code:76, Region:Occitanie, Population:41 862
+Ville: Perpignan, Code:76, Region:Occitanie, Population:123 602
+Ville: Haguenau, Code:44, Region:Grand Est, Population:35 024
+Ville: Illkirch-Graffenstaden, Code:44, Region:Grand Est, Population:27 505
+Ville: Schiltigheim, Code:44, Region:Grand Est, Population:32 024
+Ville: Strasbourg, Code:44, Region:Grand Est, Population:283 515
+Ville: Colmar, Code:44, Region:Grand Est, Population:71 445
+Ville: Mulhouse, Code:44, Region:Grand Est, Population:110 468
+Ville: Bron, Code:84, Region:Auvergne-Rhône-Alpes, Population:41 589
+Ville: Caluire-et-Cuire, Code:84, Region:Auvergne-Rhône-Alpes, Population:43 546
+Ville: Décines-Charpieu, Code:84, Region:Auvergne-Rhône-Alpes, Population:28 249
+Ville: Lyon 1er Arrondissement, Code:84, Region:Auvergne-Rhône-Alpes, Population:30 423
+Ville: Lyon 2e Arrondissement, Code:84, Region:Auvergne-Rhône-Alpes, Population:30 857
+Ville: Lyon 3e Arrondissement, Code:84, Region:Auvergne-Rhône-Alpes, Population:103 506
+Ville: Lyon 4e Arrondissement, Code:84, Region:Auvergne-Rhône-Alpes, Population:36 524
+Ville: Lyon 5e Arrondissement, Code:84, Region:Auvergne-Rhône-Alpes, Population:49 998
+Ville: Lyon 6e Arrondissement, Code:84, Region:Auvergne-Rhône-Alpes, Population:52 282
+Ville: Lyon 7e Arrondissement, Code:84, Region:Auvergne-Rhône-Alpes, Population:82 651
+Ville: Lyon 8e Arrondissement, Code:84, Region:Auvergne-Rhône-Alpes, Population:85 610
+Ville: Lyon 9e Arrondissement, Code:84, Region:Auvergne-Rhône-Alpes, Population:51 313
+Ville: Meyzieu, Code:84, Region:Auvergne-Rhône-Alpes, Population:33 351
+Ville: Oullins, Code:84, Region:Auvergne-Rhône-Alpes, Population:26 838
+Ville: Rillieux-la-Pape, Code:84, Region:Auvergne-Rhône-Alpes, Population:30 275
+Ville: Saint-Priest, Code:84, Region:Auvergne-Rhône-Alpes, Population:46 153
+Ville: Vaulx-en-Velin, Code:84, Region:Auvergne-Rhône-Alpes, Population:48 906
+Ville: Vénissieux, Code:84, Region:Auvergne-Rhône-Alpes, Population:65 822
+Ville: Villefranche-sur-Saône, Code:84, Region:Auvergne-Rhône-Alpes, Population:37 783
+Ville: Villeurbanne, Code:84, Region:Auvergne-Rhône-Alpes, Population:150 375
+Ville: Chalon-sur-Saône, Code:27, Region:Bourgogne-Franche-Comté, Population:47 085
+Ville: Mâcon, Code:27, Region:Bourgogne-Franche-Comté, Population:34 448
+Ville: Le Mans, Code:52, Region:Pays de la Loire, Population:146 804
+Ville: Aix-les-Bains, Code:84, Region:Auvergne-Rhône-Alpes, Population:30 377
+Ville: Chambéry, Code:84, Region:Auvergne-Rhône-Alpes, Population:60 872
+Ville: Annecy, Code:84, Region:Auvergne-Rhône-Alpes, Population:130 257
+Ville: Annemasse, Code:84, Region:Auvergne-Rhône-Alpes, Population:35 461
+Ville: Thonon-les-Bains, Code:84, Region:Auvergne-Rhône-Alpes, Population:36 296
+Ville: Paris, Code:11, Region:Île-de-France, Population:2 210 875
+Ville: Dieppe, Code:28, Region:Normandie, Population:30 588
+Ville: Le Grand-Quevilly, Code:28, Region:Normandie, Population:26 175
+Ville: Le Havre, Code:28, Region:Normandie, Population:172 769
+Ville: Rouen, Code:28, Region:Normandie, Population:112 596
+Ville: Saint-Étienne-du-Rouvray, Code:28, Region:Normandie, Population:29 180
+Ville: Sotteville-lès-Rouen, Code:28, Region:Normandie, Population:29 766
+Ville: Bussy-Saint-Georges, Code:11, Region:Île-de-France, Population:27 299
+Ville: Chelles, Code:11, Region:Île-de-France, Population:54 682
+Ville: Meaux, Code:11, Region:Île-de-France, Population:56 249
+Ville: Melun, Code:11, Region:Île-de-France, Population:41 183
+Ville: Pontault-Combault, Code:11, Region:Île-de-France, Population:38 587
+Ville: Savigny-le-Temple, Code:11, Region:Île-de-France, Population:30 352
+Ville: Villeparisis, Code:11, Region:Île-de-France, Population:26 507
+Ville: Chatou, Code:11, Region:Île-de-France, Population:31 653
+Ville: Le Chesnay, Code:11, Region:Île-de-France, Population:28 558
+Ville: Conflans-Sainte-Honorine, Code:11, Region:Île-de-France, Population:36 058
+Ville: Élancourt, Code:11, Region:Île-de-France, Population:25 829
+Ville: Guyancourt, Code:11, Region:Île-de-France, Population:28 839
+Ville: Houilles, Code:11, Region:Île-de-France, Population:32 064
+Ville: Mantes-la-Jolie, Code:11, Region:Île-de-France, Population:44 231
+Ville: Montigny-le-Bretonneux, Code:11, Region:Île-de-France, Population:33 535
+Ville: Les Mureaux, Code:11, Region:Île-de-France, Population:32 777
+Ville: Plaisir, Code:11, Region:Île-de-France, Population:32 128
+Ville: Poissy, Code:11, Region:Île-de-France, Population:37 524
+Ville: Rambouillet, Code:11, Region:Île-de-France, Population:26 781
+Ville: Saint-Germain-en-Laye, Code:11, Region:Île-de-France, Population:41 749
+Ville: Sartrouville, Code:11, Region:Île-de-France, Population:53 237
+Ville: Trappes, Code:11, Region:Île-de-France, Population:32 931
+Ville: Versailles, Code:11, Region:Île-de-France, Population:87 315
+Ville: Niort, Code:75, Region:Nouvelle-Aquitaine, Population:61 044
+Ville: Amiens, Code:32, Region:Hauts-de-France, Population:136 998
+Ville: Albi, Code:76, Region:Occitanie, Population:51 151
+Ville: Castres, Code:76, Region:Occitanie, Population:42 923
+Ville: Montauban, Code:76, Region:Occitanie, Population:61 978
+Ville: Draguignan, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:40 928
+Ville: Fréjus, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:54 023
+Ville: La Garde, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:25 645
+Ville: Hyères, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:56 799
+Ville: Saint-Raphaël, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:35 826
+Ville: La Seyne-sur-Mer, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:65 386
+Ville: Six-Fours-les-Plages, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:33 904
+Ville: Toulon, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:171 643
+Ville: Avignon, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:94 200
+Ville: Carpentras, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:29 498
+Ville: Cavaillon, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:26 985
+Ville: Orange, Code:93, Region:Provence-Alpes-Côte d'Azur, Population:29 856
+Ville: La Roche-sur-Yon, Code:52, Region:Pays de la Loire, Population:56 991
+Ville: Châtellerault, Code:75, Region:Nouvelle-Aquitaine, Population:32 887
+Ville: Poitiers, Code:75, Region:Nouvelle-Aquitaine, Population:90 590
+Ville: Limoges, Code:75, Region:Nouvelle-Aquitaine, Population:135 140
+Ville: Épinal, Code:44, Region:Grand Est, Population:33 454
+Ville: Auxerre, Code:27, Region:Bourgogne-Franche-Comté, Population:36 804
+Ville: Sens, Code:27, Region:Bourgogne-Franche-Comté, Population:26 688
+Ville: Belfort, Code:27, Region:Bourgogne-Franche-Comté, Population:49 926
+Ville: Athis-Mons, Code:11, Region:Île-de-France, Population:34 065
+Ville: Brétigny-sur-Orge, Code:11, Region:Île-de-France, Population:26 702
+Ville: Brunoy, Code:11, Region:Île-de-France, Population:26 520
+Ville: Corbeil-Essonnes, Code:11, Region:Île-de-France, Population:51 682
+Ville: Draveil, Code:11, Region:Île-de-France, Population:29 558
+Ville: Évry, Code:11, Region:Île-de-France, Population:55 425
+Ville: Grigny, Code:11, Region:Île-de-France, Population:29 118
+Ville: Massy, Code:11, Region:Île-de-France, Population:50 549
+Ville: Palaiseau, Code:11, Region:Île-de-France, Population:34 954
+Ville: Ris-Orangis, Code:11, Region:Île-de-France, Population:29 040
+Ville: Sainte-Geneviève-des-Bois, Code:11, Region:Île-de-France, Population:36 219
+Ville: Savigny-sur-Orge, Code:11, Region:Île-de-France, Population:36 677
+Ville: Les Ulis, Code:11, Region:Île-de-France, Population:25 031
+Ville: Vigneux-sur-Seine, Code:11, Region:Île-de-France, Population:31 488
+Ville: Viry-Châtillon, Code:11, Region:Île-de-France, Population:30 962
+Ville: Yerres, Code:11, Region:Île-de-France, Population:29 132
+Ville: Antony, Code:11, Region:Île-de-France, Population:62 989
+Ville: Asnières-sur-Seine, Code:11, Region:Île-de-France, Population:86 678
+Ville: Bagneux, Code:11, Region:Île-de-France, Population:39 977
+Ville: Bois-Colombes, Code:11, Region:Île-de-France, Population:28 607
+Ville: Boulogne-Billancourt, Code:11, Region:Île-de-France, Population:120 943
+Ville: Châtenay-Malabry, Code:11, Region:Île-de-France, Population:33 413
+Ville: Châtillon, Code:11, Region:Île-de-France, Population:37 132
+Ville: Clamart, Code:11, Region:Île-de-France, Population:53 099
+Ville: Clichy, Code:11, Region:Île-de-France, Population:60 746
+Ville: Colombes, Code:11, Region:Île-de-France, Population:86 050
+Ville: Courbevoie, Code:11, Region:Île-de-France, Population:82 351
+Ville: La Garenne-Colombes, Code:11, Region:Île-de-France, Population:29 503
+Ville: Gennevilliers, Code:11, Region:Île-de-France, Population:46 939
+Ville: Issy-les-Moulineaux, Code:11, Region:Île-de-France, Population:69 231
+Ville: Levallois-Perret, Code:11, Region:Île-de-France, Population:64 028
+Ville: Malakoff, Code:11, Region:Île-de-France, Population:30 286
+Ville: Meudon, Code:11, Region:Île-de-France, Population:46 014
+Ville: Montrouge, Code:11, Region:Île-de-France, Population:49 372
+Ville: Nanterre, Code:11, Region:Île-de-France, Population:96 321
+Ville: Neuilly-sur-Seine, Code:11, Region:Île-de-France, Population:61 501
+Ville: Le Plessis-Robinson, Code:11, Region:Île-de-France, Population:29 192
+Ville: Puteaux, Code:11, Region:Île-de-France, Population:44 941
+Ville: Rueil-Malmaison, Code:11, Region:Île-de-France, Population:79 783
+Ville: Saint-Cloud, Code:11, Region:Île-de-France, Population:30 797
+Ville: Suresnes, Code:11, Region:Île-de-France, Population:49 145
+Ville: Vanves, Code:11, Region:Île-de-France, Population:28 148
+Ville: Aubervilliers, Code:11, Region:Île-de-France, Population:86 533
+Ville: Aulnay-sous-Bois, Code:11, Region:Île-de-France, Population:85 214
+Ville: Bagnolet, Code:11, Region:Île-de-France, Population:36 047
+Ville: Le Blanc-Mesnil, Code:11, Region:Île-de-France, Population:56 346
+Ville: Bobigny, Code:11, Region:Île-de-France, Population:52 633
+Ville: Bondy, Code:11, Region:Île-de-France, Population:53 416
+Ville: Clichy-sous-Bois, Code:11, Region:Île-de-France, Population:29 978
+Ville: La Courneuve, Code:11, Region:Île-de-France, Population:42 712
+Ville: Drancy, Code:11, Region:Île-de-France, Population:70 883
+Ville: Épinay-sur-Seine, Code:11, Region:Île-de-France, Population:55 754
+Ville: Gagny, Code:11, Region:Île-de-France, Population:39 391
+Ville: Livry-Gargan, Code:11, Region:Île-de-France, Population:44 721
+Ville: Montfermeil, Code:11, Region:Île-de-France, Population:26 262
+Ville: Montreuil, Code:11, Region:Île-de-France, Population:109 235
+Ville: Neuilly-sur-Marne, Code:11, Region:Île-de-France, Population:34 859
+Ville: Noisy-le-Grand, Code:11, Region:Île-de-France, Population:67 086
+Ville: Noisy-le-Sec, Code:11, Region:Île-de-France, Population:43 693
+Ville: Pantin, Code:11, Region:Île-de-France, Population:55 585
+Ville: Pierrefitte-sur-Seine, Code:11, Region:Île-de-France, Population:29 728
+Ville: Romainville, Code:11, Region:Île-de-France, Population:26 640
+Ville: Rosny-sous-Bois, Code:11, Region:Île-de-France, Population:45 663
+Ville: Saint-Denis, Code:11, Region:Île-de-France, Population:112 309
+Ville: Saint-Ouen, Code:11, Region:Île-de-France, Population:49 949
+Ville: Sevran, Code:11, Region:Île-de-France, Population:50 888
+Ville: Stains, Code:11, Region:Île-de-France, Population:39 776
+Ville: Tremblay-en-France, Code:11, Region:Île-de-France, Population:35 866
+Ville: Villemomble, Code:11, Region:Île-de-France, Population:30 227
+Ville: Villepinte, Code:11, Region:Île-de-France, Population:36 809
+Ville: Alfortville, Code:11, Region:Île-de-France, Population:44 136
+Ville: Cachan, Code:11, Region:Île-de-France, Population:30 524
+Ville: Champigny-sur-Marne, Code:11, Region:Île-de-France, Population:77 883
+Ville: Charenton-le-Pont, Code:11, Region:Île-de-France, Population:30 793
+Ville: Choisy-le-Roi, Code:11, Region:Île-de-France, Population:44 781
+Ville: Créteil, Code:11, Region:Île-de-France, Population:90 052
+Ville: Fontenay-sous-Bois, Code:11, Region:Île-de-France, Population:53 968
+Ville: Fresnes, Code:11, Region:Île-de-France, Population:27 556
+Ville: L' Haÿ-les-Roses, Code:11, Region:Île-de-France, Population:31 416
+Ville: Ivry-sur-Seine, Code:11, Region:Île-de-France, Population:61 099
+Ville: Le Kremlin-Bicêtre, Code:11, Region:Île-de-France, Population:25 422
+Ville: Limeil-Brévannes, Code:11, Region:Île-de-France, Population:26 901
+Ville: Maisons-Alfort, Code:11, Region:Île-de-France, Population:55 816
+Ville: Nogent-sur-Marne, Code:11, Region:Île-de-France, Population:32 195
+Ville: Le Perreux-sur-Marne, Code:11, Region:Île-de-France, Population:34 017
+Ville: Saint-Maur-des-Fossés, Code:11, Region:Île-de-France, Population:75 833
+Ville: Sucy-en-Brie, Code:11, Region:Île-de-France, Population:26 575
+Ville: Thiais, Code:11, Region:Île-de-France, Population:29 295
+Ville: Villejuif, Code:11, Region:Île-de-France, Population:55 805
+Ville: Villeneuve-Saint-Georges, Code:11, Region:Île-de-France, Population:33 135
+Ville: Villiers-sur-Marne, Code:11, Region:Île-de-France, Population:29 407
+Ville: Vincennes, Code:11, Region:Île-de-France, Population:50 300
+Ville: Vitry-sur-Seine, Code:11, Region:Île-de-France, Population:93 317
+Ville: Argenteuil, Code:11, Region:Île-de-France, Population:112 064
+Ville: Bezons, Code:11, Region:Île-de-France, Population:29 216
+Ville: Cergy, Code:11, Region:Île-de-France, Population:64 451
+Ville: Eaubonne, Code:11, Region:Île-de-France, Population:25 514
+Ville: Ermont, Code:11, Region:Île-de-France, Population:29 400
+Ville: Franconville, Code:11, Region:Île-de-France, Population:36 349
+Ville: Garges-lès-Gonesse, Code:11, Region:Île-de-France, Population:42 821
+Ville: Gonesse, Code:11, Region:Île-de-France, Population:26 556
+Ville: Goussainville, Code:11, Region:Île-de-France, Population:31 167
+Ville: Herblay, Code:11, Region:Île-de-France, Population:29 614
+Ville: Pontoise, Code:11, Region:Île-de-France, Population:31 880
+Ville: Sannois, Code:11, Region:Île-de-France, Population:27 118
+Ville: Sarcelles, Code:11, Region:Île-de-France, Population:58 332
+Ville: Taverny, Code:11, Region:Île-de-France, Population:26 541
+Ville: Villiers-le-Bel, Code:11, Region:Île-de-France, Population:27 519
+Ville: Les Abymes, Code:01, Region:Guadeloupe, Population:54 818
+Ville: Baie-Mahault, Code:01, Region:Guadeloupe, Population:31 338
+Ville: Le Gosier, Code:01, Region:Guadeloupe, Population:27 023
+Ville: Fort-de-France, Code:02, Region:Martinique, Population:82 030
+Ville: Le Lamentin, Code:02, Region:Martinique, Population:40 920
+Ville: Cayenne, Code:03, Region:Guyane, Population:60 947
+Ville: Kourou, Code:03, Region:Guyane, Population:26 726
+Ville: Matoury, Code:03, Region:Guyane, Population:32 768
+Ville: Remire-Montjoly, Code:03, Region:Guyane, Population:26 170
+Ville: Saint-Laurent-du-Maroni, Code:03, Region:Guyane, Population:44 130
+Ville: Le Port, Code:04, Region:La Réunion, Population:35 141
+Ville: La Possession, Code:04, Region:La Réunion, Population:33 337
+Ville: Saint-André, Code:04, Region:La Réunion, Population:56 088
+Ville: Saint-Benoît, Code:04, Region:La Réunion, Population:38 466
+Ville: Saint-Denis, Code:04, Region:La Réunion, Population:149 337
+Ville: Saint-Joseph, Code:04, Region:La Réunion, Population:38 167
+Ville: Saint-Leu, Code:04, Region:La Réunion, Population:34 160
+Ville: Saint-Louis, Code:04, Region:La Réunion, Population:53 832
+Ville: Saint-Paul, Code:04, Region:La Réunion, Population:106 920
+Ville: Saint-Pierre, Code:04, Region:La Réunion, Population:85 059
+Ville: Sainte-Marie, Code:04, Region:La Réunion, Population:33 587
+Ville: Le Tampon, Code:04, Region:La Réunion, Population:78 366
