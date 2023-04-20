@@ -4,18 +4,36 @@ import java.util.*;
 
 public class Ville {
 
-	public static void main(String[] args) {
+	private String nomVille;
+	private int nbHabitant;
+	private Continents continent;
 
+	public Ville(String nomVille, int nbHabitant, Continents continent) {
+		this.nomVille = nomVille;
+		this.nbHabitant = nbHabitant;
+		this.continent = continent;
+	}
+	
+	public boolean equals(Object object){
+		if (!(object instanceof Ville)) {
+			return false;
+		}
+		Ville other = (Ville) object;
+		return nomVille.equals(other.getNomVille()) && nbHabitant == (other.getNbHabitant());
+	}
+
+	public static void main(String[] args) {
+		
 		ArrayList<Ville> liste = new ArrayList<Ville>();
 
-		liste.add(new Ville("Nice", 343000));
-		liste.add(new Ville("Carcasonne", 47800));
-		liste.add(new Ville("Narbonne", 53400));
-		liste.add(new Ville("Lyon", 484000));
-		liste.add(new Ville("Foix", 9700));
-		liste.add(new Ville("Pau", 77200));
-		liste.add(new Ville("Marseille", 850700));
-		liste.add(new Ville("Tarbes", 40600));
+//		liste.add(new Ville("Nice", 343000));
+//		liste.add(new Ville("Carcasonne", 47800));
+//		liste.add(new Ville("Narbonne", 53400));
+//		liste.add(new Ville("Lyon", 484000));
+//		liste.add(new Ville("Foix", 9700));
+//		liste.add(new Ville("Pau", 77200));
+//		liste.add(new Ville("Marseille", 850700));
+//		liste.add(new Ville("Tarbes", 40600));
 
 		System.out.println(liste);
 
@@ -55,16 +73,9 @@ public class Ville {
 		System.out.println(liste);
 	}
 
-	private String nomVille;
-	private int nbHabitant;
-
-	public Ville(String nomVille, int nbHabitant) {
-		this.nomVille = nomVille;
-		this.nbHabitant = nbHabitant;
-	}
 
 	public String toString() {
-		return nomVille + " " + nbHabitant + " hab |";
+		return nomVille + " " + nbHabitant + " hab " + continent + " | ";
 	}
 
 	public String getNomVille() {
@@ -81,6 +92,14 @@ public class Ville {
 
 	public void setNbHabitant(int nbHabitant) {
 		this.nbHabitant = nbHabitant;
+	}
+
+	public Continents getContinent() {
+		return continent;
+	}
+
+	public void setContinent(Continents continent) {
+		this.continent = continent;
 	}
 
 }
